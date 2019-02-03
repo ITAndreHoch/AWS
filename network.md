@@ -34,3 +34,32 @@ A security group acts as a virtual firewall for your instance to control inbound
 
 ![alt text](images/netacl.png)
 
+
+
+***
+Q:What kinds of routing policies are available in Amazon Route 53? 
+
+- Latency
+- Simple
+
+Route 53 routing policies include:
+Simple, Weighted, Latency based, Failover, Geo-location, Geo-Proximity, Multi-Value and Traffic Flow
+
+***
+Q:What are the names of two types of AWS Storage Gateway? (choose 2)
+- File Gateway
+- Gateway Virtual Tape Library
+
+The AWS Storage Gateway service enables hybrid storage between on-premises environments and the AWS Cloud. It provides low-latency performance by caching frequently accessed data on premises, while storing data securely and durably in Amazon cloud storage services. AWS Storage Gateway supports three storage interfaces: file, volume, and tape
+
+***
+Q:
+Which AWS service can assist with coordinating tasks across distributed application components?
+- Amazon SWF
+
+Amazon Simple Workflow Service (SWF) is a web service that makes it easy to coordinate work across distributed application components.
+***
+
+
+
+
