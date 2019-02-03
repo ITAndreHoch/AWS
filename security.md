@@ -23,5 +23,14 @@ How can a security compliance officer retrieve AWS compliance documentation such
 **AWS CloudHSM** is a cloud-based hardware security module (HSM) that enables you to easily generate and use your own encryption keys on the AWS Cloud
 **AWS Key Management Service** gives you centralized control over the encryption keys used to protect your data
  
+***
+Which AWS service protects against common exploits that could compromise application availability, compromise security or consume excessive resources?    
+- AWS WAF
+
+AWS WAF is a web application firewall that protects against common exploits that could compromise application availability, compromise security or consume excessive resources
+
+
+AWS WAF is a web application firewall that protects against common exploits that could compromise application availability, compromise security or consume excessive resources
+***
 
 
