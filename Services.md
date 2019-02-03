@@ -46,3 +46,11 @@ Elasticsearch is a search engine based on the Lucene library. It provides a dist
 Used to create sophisticated, interactive graph applications
 
 ***
+
+**AWS Cognito**
+AWS service lets you add user sign up, sign-in and access control to web and mobile apps
+
+***
+
+
+
