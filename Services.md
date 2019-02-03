@@ -52,5 +52,9 @@ AWS service lets you add user sign up, sign-in and access control to web and mob
 
 ***
 
+**ARN**
+Amazon Resource Names (ARNs) uniquely identify AWS resources. 
+AMR amazon namespace is used to uniquely identify AWS resources
 
+***
 
