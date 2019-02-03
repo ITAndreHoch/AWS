@@ -33,4 +33,12 @@ AWS WAF is a web application firewall that protects against common exploits that
 AWS WAF is a web application firewall that protects against common exploits that could compromise application availability, compromise security or consume excessive resources
 ***
 
+Which of the following compliance programs allows the AWS environment to process, maintain, and store protected health information?    
+
+- HIPAA
+
+AWS enables covered entities and their business associates subject to the U.S. Health Insurance Portability and Accountability Act of 1996 (HIPAA) to use the secure AWS environment to process, maintain, and store protected health information
+
+***
+
 
