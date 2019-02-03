@@ -48,5 +48,9 @@ The Payment Card Industry Data Security Standard (PCI DSS) is a proprietary info
 
 ***
 
+Which security service only requires a rule to be created in one direction as it automatically allows return traffic?    
+
+- Security Group
+***
 
 
