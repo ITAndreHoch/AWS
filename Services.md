@@ -37,3 +37,9 @@ Service provides the ability to simply upload applications and have AWS handle t
 can be used to quickly deploy and manage applications in the AWS Cloud. Developers upload applications and Elastic Beanstalk handles the deployment details of capacity provisioning, load balancing, auto-scaling, and application health monitoring. Considered a Platform as a Service (PaaS) solution. Supports Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker web applications
 
 ***
+**AWS ELasticsearch**
+
+Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java and is released as open source 
+
+***
+
