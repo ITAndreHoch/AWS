@@ -68,7 +68,9 @@ What type of database is fully managed and can be scaled without incurring downt
 - Amazon Dynamo DB
 
 ***
+You can use Amazon Data Lifecycle Manager (Amazon **DLM**) to automate the creation, retention,
+and deletion of snapshots EBS
 
-
+***
 
 
