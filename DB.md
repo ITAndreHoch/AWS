@@ -44,14 +44,15 @@ Summary:
 
 * Amazon RDS DB snapshots and automated backups are stored in S3.
 
-
+***
+**QUESTIONS:**
 
 * How can you obtain a discount on your RDS database instances?  - Reserved database instance
 
-
-LIGHTSILE:
-
-Amazon Lightsail announces the addition of managed databases to its easy-to-use cloud platform, allowing you to create a fully configured database in minutes for a low, predictable price. Lightsail databases bundle together a database instance, SSD- backed storage, a data transfer allocation, and management tools, starting at $15/month.
-
-
 **AWS Database Migration Service DM** helps you migrate databases to AWS quickly and securely
+
+Q: 
+What features does Amazon RDS provide to deliver scalability, availability and durability? (choose 2)
+
+- Multi-AZ: Multi-AZ RDS creates a replica in another AZ and synchronously
+- Read Replicas: Read replicas are used for read heavy DBs and replication
