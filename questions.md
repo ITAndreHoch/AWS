@@ -153,6 +153,12 @@ When using an Elastic Load Balancer, which process checks for connections reques
 
 ***
 
+Which AWS service uses a highly secure hardware storage device to store encryption keys?
+
+- AWS CloudHSM
+
+AWS CloudHSM is a cloud-based hardware security module (HSM) that allows you to easily add secure key storage and high-performance crypto operations to your AWS applications
+***
 
 
 
