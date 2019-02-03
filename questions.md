@@ -160,6 +160,42 @@ Which AWS service uses a highly secure hardware storage device to store encrypti
 AWS CloudHSM is a cloud-based hardware security module (HSM) that allows you to easily add secure key storage and high-performance crypto operations to your AWS applications
 ***
 
+Which type of Amazon Route 53 routing policy allows you to specify a numerical value per IP address, totaling 100, that favors addresses with higher values?
+
+- weighted
+
+***
+
+How are AWS Lambda functions triggered?
+- Events
+
+ supported event sources for AWS Lambda? :
+ 
+ - S3
+ - DynamoDB
+ 
+ ***
+Which of the below are valid use cases for using AWS services to implement real-time auditing? (choose 2)
+
+- Amazon Inspector
+- AWS Lambda scan log files
+
+***
+What billing timeframes are available for Amazon EC2 on-demand instances? (choose 2)
+
+- per hour
+- per second
+
+***
+How can you enable access to AWS accounts using credentials from an on-premise corporate directory?    
+- Federation using IAM
+
+***
+Which of the below are components that can be configured in the VPC section of the AWS management console? (choose 2)
+
+- EndPoints
+
+- Subnetns
 
 
 
