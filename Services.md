@@ -23,3 +23,17 @@ Manage instances of:
 **Amazon WorkSpaces**  is a managed desktop computing service running on the AWS cloud
 
 ***
+
+**AWS Trused Advisior**
+Reduce Costs, Increase Performance, and Improve Security
+AWS Trusted Advisor is an online tool that provides you real time guidance to help you provision your resources following AWS best practices.
+
+***
+
+**AWS Elastic Beanstalk**
+
+Service provides the ability to simply upload applications and have AWS handle the deployment details of capacity provisioning, load balancing, auto-scaling, and application health monitoring
+
+can be used to quickly deploy and manage applications in the AWS Cloud. Developers upload applications and Elastic Beanstalk handles the deployment details of capacity provisioning, load balancing, auto-scaling, and application health monitoring. Considered a Platform as a Service (PaaS) solution. Supports Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker web applications
+
+***
