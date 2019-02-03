@@ -15,7 +15,13 @@ How can a security compliance officer retrieve AWS compliance documentation such
  AWS Artifact, available in the console, is a self-service audit artifact retrieval portal that provides our customers with on-demand access to AWS’ compliance documentation and AWS agreements
  
  ***
+ Which services are involved with security? (choose 2)
  
+ - AWS CloudHSM
+ - AWS KMS
+ 
+**AWS CloudHSM** is a cloud-based hardware security module (HSM) that enables you to easily generate and use your own encryption keys on the AWS Cloud
+**AWS Key Management Service** gives you centralized control over the encryption keys used to protect your data
  
 
 
