@@ -39,3 +39,12 @@
 - Manage change in automation
 
 ***
+
+Q: 
+What are two examples of the advantages of cloud computing? (choose 2)
+- increase speed and agility
+- Benefit from massic=ve aconomies of scale
+
+***
+
+
