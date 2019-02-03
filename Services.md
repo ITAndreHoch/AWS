@@ -19,3 +19,7 @@ Manage instances of:
 ***
 **Amazon Simple Workflow Service (SWF)** is a web service that makes it easy to coordinate work across distributed application components.
 
+***
+**Amazon WorkSpaces**  is a managed desktop computing service running on the AWS cloud
+
+***
