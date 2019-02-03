@@ -68,4 +68,17 @@ AWS service allows you to automate the evaluation of recorded configurations aga
 AWS Device Farm is an app testing service that lets you test and interact with your Android, iOS, and web apps on many devices at once, or reproduce issues on a device in real time
 
 ***
+** AWS Migration Hub**
+AWS Migration Hub provides a single location to track the progress of application migrations across multiple AWS and partner solutions.
+
+***
+
+** AWS Comprehend**
+
+Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. 
+
+***
+
+
+
 
