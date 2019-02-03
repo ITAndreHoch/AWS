@@ -78,7 +78,23 @@ AWS Migration Hub provides a single location to track the progress of applicatio
 Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. 
 
 ***
+**RTPM distribution**
 
+An RTMP distribution is used to distribute streaming media files using Adobe Flash Media Server’s RTMP protocol
 
+***
 
+Amazon S3 objects consist of:
+- Key (name of the object)
+- Value (data made up of a sequence of bytes)
+- Version ID (used for versioning)
+- Metadata (data about the data that is stored)
+
+***
+
+Which feature of AWS IAM enables you to identify unnecessary permissions that have been assigned to users?
+
+- Access Advisor
+
+***
 
