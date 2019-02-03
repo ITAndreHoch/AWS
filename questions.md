@@ -47,6 +47,17 @@ Q:Which AWS service can be used to run Docker containers?
 - Amazon ECS Amazon Elastic Container Service (ECS) 
 
 ***
+Which tool can be used to create and manage a selection of AWS services that are approved for use on AWS?
+- AWS Service Catalog
+
+AWS Service Catalog allows organizations to create and manage catalogs of IT services that are approved for use on AWS. 
+
+***
+An architect is creating a scalable application using AWS Auto Scaling. What needs to be created to enable a working configuration? (choose 2):
+- Create a lauch configuration
+- Create Auto Scaling Group
+
+***
 
 
 
