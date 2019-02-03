@@ -58,6 +58,17 @@ An architect is creating a scalable application using AWS Auto Scaling. What nee
 - Create Auto Scaling Group
 
 ***
+Which of the following services allow root level access to the operating system? (choose 2):
+- Amazon EMR
+- Amazon EC2
+
+***
+What type of database is fully managed and can be scaled without incurring downtime?
+
+- Amazon Dynamo DB
+
+***
+
 
 
 
