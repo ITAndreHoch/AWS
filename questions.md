@@ -104,7 +104,55 @@ To ensure the security of your AWS account, what are two AWS best practices for 
 - Dont generate access key for the root account user
 - Where possible, use IAM roles with temporary security credentials
 
-**
+***
+When using Amazon RDS databases, which items are you charged for? 
+
+- Outbound transfer
+- Multi AZ
+
+***
+What is the most cost-effective Amazon S3 storage tier for data that is not often accessed but requires high durability?
+
+- Amazon S3 One-Zone-IA
+
+***
+What does an organization need to do in Amazon IAM to enable user access to services being launched in new region?
+
+- Nothing, IAM is GLobal
+
+***
+Which of the below are good use cases for a specific Amazon EC2 pricing model? (choose 2)
+
+***
+What is the difference between an EBS volume and an Instance store?
+- Instance store volume are ephemeral whereas EBS volumes are persistent storage
+
+***
+
+In addition to DNS services, what other services does Amazon Route 53 provide? (choose 2)
+
+- Traffic FLow
+- Doamin Registration
+
+***
+What team is available to support AWS customers on an Enterprise support plan?
+- AWS Concierege
+
+***
+
+
+
+- On-demand for AD-HOC requirments cannot be interrupted
+- Reserved instances for steady state predictable usage
+
+***
+
+When using an Elastic Load Balancer, which process checks for connections requests, using a configured protocol and port?
+
+- Listener
+
+***
+
 
 
 
