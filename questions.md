@@ -29,3 +29,24 @@ Which configuration changes are associated with scaling vertically? (choose 2)
 - Changing on EC2 instance -more CPU and RAM
 - Addind a Lager capacity hard drive to a server
 ***
+What components can be managed in the Virtual Private Cloud (VPC) management console? (choose 2)
+- IP CIDR
+- Subnets
+***
+Which types of AWS resource can be launched from a Golden Image? (choose 2):
+- Amazon RDS instances
+- Amazon EC2 instances
+
+***
+Q: Which services are managed at a regional (rather than global) level? (choose 2)
+- Amazon S3
+- Amazon EC2
+
+***
+Q:Which AWS service can be used to run Docker containers?
+- Amazon ECS Amazon Elastic Container Service (ECS) 
+
+***
+
+
+
