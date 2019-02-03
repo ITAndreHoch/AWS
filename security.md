@@ -40,5 +40,13 @@ Which of the following compliance programs allows the AWS environment to process
 AWS enables covered entities and their business associates subject to the U.S. Health Insurance Portability and Accountability Act of 1996 (HIPAA) to use the secure AWS environment to process, maintain, and store protected health information
 
 ***
+Which information security standard applies to entities that store, process or transmit credit cardholder data?
+
+- PCI DDS
+
+The Payment Card Industry Data Security Standard (PCI DSS) is a proprietary information security standard administered by thePCI Security Standards Council
+
+***
+
 
 
