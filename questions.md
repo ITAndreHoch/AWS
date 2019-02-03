@@ -72,5 +72,41 @@ You can use Amazon Data Lifecycle Manager (Amazon **DLM**) to automate the creat
 and deletion of snapshots EBS
 
 ***
+Which data consistency models are available with Amazon S3? (choose 2)
+
+- Read after write consistency for PUTS of new objects
+- Eventual consistency for overwrite PUTS and DELETES (takes time to propagate)
+
+***
+
+What advantages do NAT Gateways have over NAT Instances? (choose 2)
+
+- Managed for you by AWS
+- Highly available withwin each AZ
+
+***
+
+What types of origins are supported by Amazon CloudFront? (choose 2)
+
+- ELB
+- EC2 instance
+
+**
+
+You are concerned that you may be getting close to some of the default service limits for several AWS services. What AWS tool can be used to display current usage and limits?    
+
+- AWS Trusted Advisor
+
+***
+
+To ensure the security of your AWS account, what are two AWS best practices for managing access keys? (choose 2)    
+
+- Dont generate access key for the root account user
+- Where possible, use IAM roles with temporary security credentials
+
+**
+
+
+
 
 
