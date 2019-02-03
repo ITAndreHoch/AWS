@@ -59,9 +59,13 @@ AMR amazon namespace is used to uniquely identify AWS resources
 ***
 **AWS config**
 AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
+AWS service allows you to automate the evaluation of recorded configurations against desired configuration.
 
 ***
 
+**AWS Device Farm**
 
- AWS service allows you to automate the evaluation of recorded configurations against desired configuration?
+AWS Device Farm is an app testing service that lets you test and interact with your Android, iOS, and web apps on many devices at once, or reproduce issues on a device in real time
+
+***
 
