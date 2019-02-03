@@ -24,4 +24,8 @@ A company is planning to migrate some resources into the cloud. What factors nee
 - nr of EC2 instances
 - emount of EGRESS data per month
 
-**
+***
+Which configuration changes are associated with scaling vertically? (choose 2)
+- Changing on EC2 instance -more CPU and RAM
+- Addind a Lager capacity hard drive to a server
+***
