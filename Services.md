@@ -15,3 +15,7 @@ Manage instances of:
 
 * Cheef
 * Puppet
+
+***
+**Amazon Simple Workflow Service (SWF)** is a web service that makes it easy to coordinate work across distributed application components.
+
