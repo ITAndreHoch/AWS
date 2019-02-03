@@ -57,4 +57,11 @@ Amazon Resource Names (ARNs) uniquely identify AWS resources.
 AMR amazon namespace is used to uniquely identify AWS resources
 
 ***
+**AWS config**
+AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
+
+***
+
+
+ AWS service allows you to automate the evaluation of recorded configurations against desired configuration?
 
